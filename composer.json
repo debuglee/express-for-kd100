@@ -3,7 +3,7 @@
     "description": "快递100 订阅查询",
     "type": "library",
     "license": "MIT",
-    "keywords": ["kd100"],
+    "keywords": ["laravel"],
     "authors": [
         {
             "name": "debuglee",
