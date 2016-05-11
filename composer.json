@@ -1,0 +1,20 @@
+{
+    "name": "debuglee/express",
+    "description": "快递100 订阅查询",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["kd100"],
+    "authors": [
+        {
+            "name": "debuglee",
+            "email": "li.leon@gmail.com"
+        }
+    ],
+     "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Debuglee\\Express\\": "src/"
+        }
+    }
+}
