@@ -1,6 +1,6 @@
 {
     "name": "debuglee/express",
-    "description": "快递100 订阅查询",
+    "description": "express query for kd100 api",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel"],
@@ -10,7 +10,9 @@
             "email": "li.leon@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+            "php": ">=5.3",
+        },
     "autoload": {
         "psr-4": {
             "Debuglee\\Express\\": "src/"
