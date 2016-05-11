@@ -10,7 +10,7 @@
             "email": "li.leon@gmail.com"
         }
     ],
-     "minimum-stability": "RC",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
